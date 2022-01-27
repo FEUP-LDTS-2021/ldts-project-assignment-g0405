@@ -4,7 +4,7 @@ plugins {
     id 'info.solidsoft.pitest' version '1.7.0'
 }
 application {
-    mainClass.set("Project")
+    mainClass.set("com.g0405/Project")
 }
 
 group 'org.example'
