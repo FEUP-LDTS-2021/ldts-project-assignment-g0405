@@ -1,4 +1,4 @@
-package game.menu;
+package com.g0405.game.menu;
 
 import com.googlecode.lanterna.TerminalPosition;
 import com.googlecode.lanterna.TerminalSize;

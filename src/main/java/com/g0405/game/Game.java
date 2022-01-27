@@ -8,14 +8,14 @@ import com.googlecode.lanterna.terminal.DefaultTerminalFactory;
 import com.googlecode.lanterna.terminal.Terminal;
 import com.googlecode.lanterna.terminal.swing.AWTTerminalFontConfiguration;
 import com.googlecode.lanterna.terminal.swing.AWTTerminalFrame;
-import game.menu.Instructions;
+import com.g0405.game.menu.Instructions;
 
 import java.awt.*;
 import java.io.File;
 import java.io.IOException;
 import java.util.Timer;
 import java.util.TimerTask;
-import game.menu.Menu;
+import com.g0405.game.menu.Menu;
 
 public class Game {
     private final int width;
