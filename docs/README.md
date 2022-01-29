@@ -10,10 +10,7 @@ After rescuing the Princess a door is opened and Jack needs to leave the map thr
 
 Each biscuit that Jack catches makes his score go up, but these are not necessary to release the Princess and finish the game.
 
-## Credits
 This project was developed by _André Costa_ (https://github.com/AndreCosta201905916) (up201905016@fe.up.pt) and _Francisco Serra_ (https://github.com/kiko-serra) (up202007723@fe.up.pt) and _Válter Castro_ (https://github.com/ValterCastro) (up201706546@fe.up.pt) for LDTS 2021⁄22.
-
-Faculdade de Engenharia da Universidade Porto 2022
 
 ## Index
 * [GamePlay Demo](#gameplay-demo)
@@ -194,17 +191,6 @@ we don't **extract** them to keep our relations simpler. There are cases where w
 
 ## Self-Evaluation
 
- Opinião do André:
-- André Costa: 35%
-- Francisco Serra: 35% 
-- Válter Castro: 30%
-
- Opinião do Francisco:
-- André Costa: 37%
-- Francisco Serra: 33%
-- Válter Castro: 30%
-
- Opinião do Válter:
-- André Costa: 33.33%
-- Francisco Serra: 33.33%
-- Válter Castro: 33.33%
+- André Costa: 
+- Francisco Serra: 
+- Válter Castro:
